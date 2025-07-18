@@ -50,5 +50,3 @@ Connect with me on [LinkedIn](https://linkedin.com/in/muhammad-jawad-saeed-967b8
 - Improved JavaScript event handling for real-time UI updates.
 - Gained experience in creative use of positioning and transitions.
 - Strengthened my understanding of interactive front-end development using SCSS and DOM.
-
----
