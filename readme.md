@@ -20,7 +20,7 @@ This project is a creative implementation of how DOM events and CSS effects can 
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **Sass (SCSS)**
